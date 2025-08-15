@@ -12,6 +12,7 @@ Este script utiliza o Amazon Comprehend para analisar sentimentos em textos em p
 - Biblioteca boto3: `pip install boto3`
 - Credenciais AWS configuradas
 - Usuário IAM com permissões adequadas
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/) — Editor de código utilizado para desenvolvimento e testes.
 
 ## Configuração de Permissões IAM
 
