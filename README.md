@@ -180,3 +180,22 @@ $env:AWS_SECRET_ACCESS_KEY="sua_secret_key"
 ## Observações
 
 O Amazon Comprehend analisa o texto e determina se é positivo, negativo, neutro ou misto com scores de confiança para cada categoria. O script também inclui funcionalidade de tradução usando o AWS Translate.
+
+---
+
+## 🔗 Saiba mais
+
+Para mais informações sobre o serviço utilizado neste projeto, visite a página oficial do [Amazon Comprehend](https://aws.amazon.com/pt/comprehend/).
+
+---
+
+## 📬 Contato e Redes Sociais
+
+Fique à vontade para entrar em contato ou acompanhar meu trabalho nas redes:
+
+- 🌐 Site: [vempracloud.com.br](https://www.vempracloud.com.br/)
+- 💼 LinkedIn: [Arnoldo Lima](https://www.linkedin.com/in/arnoldolima-arquietocloud)
+- 📸 Instagram: [@ArnoldoLima.Cloud](https://www.instagram.com/ArnoldoLima.Cloud)
+- ▶️ YouTube: [Arnoldo Lima](https://www.youtube.com/@ArnoldoLima)
+
+
