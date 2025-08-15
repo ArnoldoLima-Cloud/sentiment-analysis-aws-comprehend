@@ -1,7 +1,8 @@
-# Script de Análise de Sentimento com AWS Comprehend
 <p align="center">
   <img src="Amazon Comprehend.png" alt="Análise de Sentimento com AWS Comprehend" width="200"/>
 </p>
+
+# Script de Análise de Sentimento com AWS Comprehend
 
 Este script utiliza o Amazon Comprehend para analisar sentimentos em textos em português.
 
