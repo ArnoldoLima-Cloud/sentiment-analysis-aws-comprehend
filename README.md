@@ -28,7 +28,6 @@ Para usar o AWS Comprehend, você precisa criar um usuário IAM com as seguintes
             "Effect": "Allow",
             "Action": [
                 "comprehend:DetectSentiment",
-                "comprehend:DetectLanguage",
                 "comprehend:DetectEntities",
                 "comprehend:DetectKeyPhrases",
                 "comprehend:DetectSyntax"
